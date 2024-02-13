@@ -1,7 +1,7 @@
 # N-cutter
  **It divides any VIDEO file into 'N' no. of parts** 
 
- Code comments were added By [Me](chat.openai.com) to help you understand
+ Code comments were added By [Me](https://chat.openai.com) to help you understand
 
 ***this was made 1.5 years ago but i'm uploading it now {sorry}***
 
